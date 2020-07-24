@@ -1,0 +1,3 @@
+Screenshots.rar contains all the screenshot of the projecttesting and verifying different features of project from notification,pop ups and modifying.
+events.sql hold up sql file that stores the events in database.
+project22.java is a Java Code file that comprises of JDBC connection for Database Management, Java Date/Time api, Java Swing for GUI and Event Handling by awt.
